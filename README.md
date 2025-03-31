@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkanantaa" alt="arkanantaa" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Object Oriented Programming, Computer Networking**
+- 🌱 I’m currently learning **Network Programming, Algorithm Analysis and Design, Machine Learning**
 
 - 📫 How to reach me **arkanantam27@gmail.com**
 
