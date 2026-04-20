@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arkananta Masarief</h1>
 <h3 align="center">6th Semester Informatics Engineering Student at ITS</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkanantaa&label=Profile%20views&color=0e75b6&style=flat" alt="arkanantaa" /> </p>
+
 - 🔭 I’m currently working on **VLM Based content moderation for children**
 
 - 🌱 I’m currently learning **Transformers, Unsloth, Kotlin,**
