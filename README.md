@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arkananta Masarief</h1>
 <h3 align="center">6th Semester Informatics Engineering Student at ITS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkanantaa" alt="arkanantaa" /></a> </p>
-
 - 🔭 I’m currently working on **VLM Based content moderation for children**
 
 - 🌱 I’m currently learning **Transformers, Unsloth, Kotlin,**
